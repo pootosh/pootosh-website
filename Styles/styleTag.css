@@ -1,0 +1,25 @@
+header {
+    background-color: beige;
+}
+
+a:hover{
+    
+    font-size: x-large;
+    font: bold;
+}
+
+
+a {
+    
+    text-decoration: none;
+    -webkit-tap-highlight-color: rgba(0,0,0,.10);
+}
+
+.resumeButton {
+    background-color: rgb(235, 234, 205);
+
+}
+
+.circle {
+    border-radius: 50%;
+}
